@@ -1,0 +1,12 @@
+/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Shared/bin/Debug/net7.0/SystemCase.Shared.deps.json
+/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Shared/bin/Debug/net7.0/SystemCase.Shared.dll
+/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Shared/bin/Debug/net7.0/SystemCase.Shared.pdb
+/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Shared/obj/Debug/net7.0/SystemCase.Shared.csproj.AssemblyReference.cache
+/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Shared/obj/Debug/net7.0/SystemCase.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Shared/obj/Debug/net7.0/SystemCase.Shared.AssemblyInfoInputs.cache
+/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Shared/obj/Debug/net7.0/SystemCase.Shared.AssemblyInfo.cs
+/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Shared/obj/Debug/net7.0/SystemCase.Shared.csproj.CoreCompileInputs.cache
+/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Shared/obj/Debug/net7.0/SystemCase.Shared.dll
+/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Shared/obj/Debug/net7.0/refint/SystemCase.Shared.dll
+/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Shared/obj/Debug/net7.0/SystemCase.Shared.pdb
+/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Shared/obj/Debug/net7.0/ref/SystemCase.Shared.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/SystemCase.Notification.props" />
+</Project>

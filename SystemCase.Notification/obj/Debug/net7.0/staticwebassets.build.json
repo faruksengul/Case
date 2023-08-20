@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "gw3q3pN6oV/55opU4hS3Ius63ZSFp6OxRwgheAiKcBo=",
+  "Source": "SystemCase.Notification",
+  "BasePath": "_content/SystemCase.Notification",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

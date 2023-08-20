@@ -1,0 +1,118 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Domain/SystemCase.Domain.csproj": {}
+  },
+  "projects": {
+    "/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Domain.Core/SystemCase.Domain.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Domain.Core/SystemCase.Domain.Core.csproj",
+        "projectName": "SystemCase.Domain.Core",
+        "projectPath": "/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Domain.Core/SystemCase.Domain.Core.csproj",
+        "packagesPath": "/Users/faruksengul/.nuget/packages/",
+        "outputPath": "/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Domain.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/faruksengul/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.307/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Domain/SystemCase.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Domain/SystemCase.Domain.csproj",
+        "projectName": "SystemCase.Domain",
+        "projectPath": "/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Domain/SystemCase.Domain.csproj",
+        "packagesPath": "/Users/faruksengul/.nuget/packages/",
+        "outputPath": "/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/faruksengul/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Domain.Core/SystemCase.Domain.Core.csproj": {
+                "projectPath": "/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Domain.Core/SystemCase.Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.307/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Domain/bin/Debug/net7.0/SystemCase.Domain.deps.json
+/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Domain/bin/Debug/net7.0/SystemCase.Domain.dll
+/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Domain/bin/Debug/net7.0/SystemCase.Domain.pdb
+/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Domain/bin/Debug/net7.0/SystemCase.Domain.Core.dll
+/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Domain/bin/Debug/net7.0/SystemCase.Domain.Core.pdb
+/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Domain/obj/Debug/net7.0/SystemCase.Domain.csproj.AssemblyReference.cache
+/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Domain/obj/Debug/net7.0/SystemCase.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Domain/obj/Debug/net7.0/SystemCase.Domain.AssemblyInfoInputs.cache
+/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Domain/obj/Debug/net7.0/SystemCase.Domain.AssemblyInfo.cs
+/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Domain/obj/Debug/net7.0/SystemCase.Domain.csproj.CoreCompileInputs.cache
+/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Domain/obj/Debug/net7.0/SystemCase.Domain.csproj.CopyComplete
+/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Domain/obj/Debug/net7.0/SystemCase.Domain.dll
+/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Domain/obj/Debug/net7.0/refint/SystemCase.Domain.dll
+/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Domain/obj/Debug/net7.0/SystemCase.Domain.pdb
+/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Domain/obj/Debug/net7.0/ref/SystemCase.Domain.dll
