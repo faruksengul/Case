@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7WltT3ODNr24lBI20xFT+8cxlrxv5Oh+3jTNOCgVCdpGPoQ1vMbOQEj6wpl1Uy9K7YyiPxGfzmDl4YLwVew8DA==",
+  "dgSpecHash": "Bhc3QyQGdG7PalrD6vqEJSEVFhnX967KFls6bhYjUuEm+L7DUt48h8WBEkr0EmqUL/rxj1BYzWcGHsyuWIhXvw==",
   "success": true,
-  "projectFilePath": "/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Test/SystemCase.Test.csproj",
+  "projectFilePath": "/Users/faruksengul/Documents/SystemCase/Case/SystemCase.Test/SystemCase.Test.csproj",
   "expectedPackageFiles": [
     "/Users/faruksengul/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
     "/Users/faruksengul/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

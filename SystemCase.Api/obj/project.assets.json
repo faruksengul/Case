@@ -5330,11 +5330,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Api/SystemCase.Api.csproj",
+      "projectUniqueName": "/Users/faruksengul/Documents/SystemCase/Case/SystemCase.Api/SystemCase.Api.csproj",
       "projectName": "SystemCase.Api",
-      "projectPath": "/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Api/SystemCase.Api.csproj",
+      "projectPath": "/Users/faruksengul/Documents/SystemCase/Case/SystemCase.Api/SystemCase.Api.csproj",
       "packagesPath": "/Users/faruksengul/.nuget/packages/",
-      "outputPath": "/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Api/obj/",
+      "outputPath": "/Users/faruksengul/Documents/SystemCase/Case/SystemCase.Api/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/faruksengul/.nuget/NuGet/NuGet.Config"
@@ -5350,8 +5350,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Application/SystemCase.Application.csproj": {
-              "projectPath": "/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Application/SystemCase.Application.csproj"
+            "/Users/faruksengul/Documents/SystemCase/Case/SystemCase.Application/SystemCase.Application.csproj": {
+              "projectPath": "/Users/faruksengul/Documents/SystemCase/Case/SystemCase.Application/SystemCase.Application.csproj"
             }
           }
         }

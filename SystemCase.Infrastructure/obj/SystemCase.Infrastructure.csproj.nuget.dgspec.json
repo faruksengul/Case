@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Infrastructure/SystemCase.Infrastructure.csproj": {}
+    "/Users/faruksengul/Documents/SystemCase/Case/SystemCase.Infrastructure/SystemCase.Infrastructure.csproj": {}
   },
   "projects": {
-    "/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Domain.Core/SystemCase.Domain.Core.csproj": {
+    "/Users/faruksengul/Documents/SystemCase/Case/SystemCase.Domain.Core/SystemCase.Domain.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Domain.Core/SystemCase.Domain.Core.csproj",
+        "projectUniqueName": "/Users/faruksengul/Documents/SystemCase/Case/SystemCase.Domain.Core/SystemCase.Domain.Core.csproj",
         "projectName": "SystemCase.Domain.Core",
-        "projectPath": "/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Domain.Core/SystemCase.Domain.Core.csproj",
+        "projectPath": "/Users/faruksengul/Documents/SystemCase/Case/SystemCase.Domain.Core/SystemCase.Domain.Core.csproj",
         "packagesPath": "/Users/faruksengul/.nuget/packages/",
-        "outputPath": "/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Domain.Core/obj/",
+        "outputPath": "/Users/faruksengul/Documents/SystemCase/Case/SystemCase.Domain.Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/faruksengul/.nuget/NuGet/NuGet.Config"
@@ -57,14 +57,14 @@
         }
       }
     },
-    "/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Domain/SystemCase.Domain.csproj": {
+    "/Users/faruksengul/Documents/SystemCase/Case/SystemCase.Domain/SystemCase.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Domain/SystemCase.Domain.csproj",
+        "projectUniqueName": "/Users/faruksengul/Documents/SystemCase/Case/SystemCase.Domain/SystemCase.Domain.csproj",
         "projectName": "SystemCase.Domain",
-        "projectPath": "/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Domain/SystemCase.Domain.csproj",
+        "projectPath": "/Users/faruksengul/Documents/SystemCase/Case/SystemCase.Domain/SystemCase.Domain.csproj",
         "packagesPath": "/Users/faruksengul/.nuget/packages/",
-        "outputPath": "/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Domain/obj/",
+        "outputPath": "/Users/faruksengul/Documents/SystemCase/Case/SystemCase.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/faruksengul/.nuget/NuGet/NuGet.Config"
@@ -79,8 +79,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Domain.Core/SystemCase.Domain.Core.csproj": {
-                "projectPath": "/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Domain.Core/SystemCase.Domain.Core.csproj"
+              "/Users/faruksengul/Documents/SystemCase/Case/SystemCase.Domain.Core/SystemCase.Domain.Core.csproj": {
+                "projectPath": "/Users/faruksengul/Documents/SystemCase/Case/SystemCase.Domain.Core/SystemCase.Domain.Core.csproj"
               }
             }
           }
@@ -114,14 +114,14 @@
         }
       }
     },
-    "/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Infrastructure/SystemCase.Infrastructure.csproj": {
+    "/Users/faruksengul/Documents/SystemCase/Case/SystemCase.Infrastructure/SystemCase.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Infrastructure/SystemCase.Infrastructure.csproj",
+        "projectUniqueName": "/Users/faruksengul/Documents/SystemCase/Case/SystemCase.Infrastructure/SystemCase.Infrastructure.csproj",
         "projectName": "SystemCase.Infrastructure",
-        "projectPath": "/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Infrastructure/SystemCase.Infrastructure.csproj",
+        "projectPath": "/Users/faruksengul/Documents/SystemCase/Case/SystemCase.Infrastructure/SystemCase.Infrastructure.csproj",
         "packagesPath": "/Users/faruksengul/.nuget/packages/",
-        "outputPath": "/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Infrastructure/obj/",
+        "outputPath": "/Users/faruksengul/Documents/SystemCase/Case/SystemCase.Infrastructure/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/faruksengul/.nuget/NuGet/NuGet.Config"
@@ -136,8 +136,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Domain/SystemCase.Domain.csproj": {
-                "projectPath": "/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Domain/SystemCase.Domain.csproj"
+              "/Users/faruksengul/Documents/SystemCase/Case/SystemCase.Domain/SystemCase.Domain.csproj": {
+                "projectPath": "/Users/faruksengul/Documents/SystemCase/Case/SystemCase.Domain/SystemCase.Domain.csproj"
               }
             }
           }

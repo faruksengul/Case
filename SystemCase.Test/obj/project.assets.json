@@ -5614,11 +5614,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Test/SystemCase.Test.csproj",
+      "projectUniqueName": "/Users/faruksengul/Documents/SystemCase/Case/SystemCase.Test/SystemCase.Test.csproj",
       "projectName": "SystemCase.Test",
-      "projectPath": "/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Test/SystemCase.Test.csproj",
+      "projectPath": "/Users/faruksengul/Documents/SystemCase/Case/SystemCase.Test/SystemCase.Test.csproj",
       "packagesPath": "/Users/faruksengul/.nuget/packages/",
-      "outputPath": "/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Test/obj/",
+      "outputPath": "/Users/faruksengul/Documents/SystemCase/Case/SystemCase.Test/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/faruksengul/.nuget/NuGet/NuGet.Config"
@@ -5633,11 +5633,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Application/SystemCase.Application.csproj": {
-              "projectPath": "/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Application/SystemCase.Application.csproj"
+            "/Users/faruksengul/Documents/SystemCase/Case/SystemCase.Application/SystemCase.Application.csproj": {
+              "projectPath": "/Users/faruksengul/Documents/SystemCase/Case/SystemCase.Application/SystemCase.Application.csproj"
             },
-            "/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Infrastructure/SystemCase.Infrastructure.csproj": {
-              "projectPath": "/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Infrastructure/SystemCase.Infrastructure.csproj"
+            "/Users/faruksengul/Documents/SystemCase/Case/SystemCase.Infrastructure/SystemCase.Infrastructure.csproj": {
+              "projectPath": "/Users/faruksengul/Documents/SystemCase/Case/SystemCase.Infrastructure/SystemCase.Infrastructure.csproj"
             }
           }
         }

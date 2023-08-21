@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Shared/SystemCase.Shared.csproj",
+      "projectUniqueName": "/Users/faruksengul/Documents/SystemCase/Case/SystemCase.Shared/SystemCase.Shared.csproj",
       "projectName": "SystemCase.Shared",
-      "projectPath": "/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Shared/SystemCase.Shared.csproj",
+      "projectPath": "/Users/faruksengul/Documents/SystemCase/Case/SystemCase.Shared/SystemCase.Shared.csproj",
       "packagesPath": "/Users/faruksengul/.nuget/packages/",
-      "outputPath": "/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Shared/obj/",
+      "outputPath": "/Users/faruksengul/Documents/SystemCase/Case/SystemCase.Shared/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/faruksengul/.nuget/NuGet/NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "APhqO6/ArRS+W8CCrIyZiLRK8XO5Q/39cbR9gGAmz6etkZN+UoFojbeYTVozHJBZde6Aw7dEEyqGiHJCC/WZBg==",
+  "dgSpecHash": "vFpiYCtHH8WQCxFg3rg5L7H72iIb/zxbip0o6+5183BmFvQzFzHOsXDhV5zewdWBL+wrPEkEFNSra9aIF8Fqcg==",
   "success": true,
-  "projectFilePath": "/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Infrastructure/SystemCase.Infrastructure.csproj",
+  "projectFilePath": "/Users/faruksengul/Documents/SystemCase/Case/SystemCase.Infrastructure/SystemCase.Infrastructure.csproj",
   "expectedPackageFiles": [
     "/Users/faruksengul/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
     "/Users/faruksengul/.nuget/packages/azure.core/1.24.0/azure.core.1.24.0.nupkg.sha512",

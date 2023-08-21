@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FbwThRqz0PiWmw0UhLJS8ThxQ8m66NgycV1tJ4exMoqXe4tvSS9yedu1TiZTM20Is57pDMj0FDolLIWzaw58lQ==",
+  "dgSpecHash": "861V9go5kgOfZxsx8cCFrJ9Pgmr8Zf9xrUHqoLW6nhw/lnIB745seKRlwbSl+8kEC63W0GeboNUgG/FY7BfABQ==",
   "success": true,
-  "projectFilePath": "/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Shared/SystemCase.Shared.csproj",
+  "projectFilePath": "/Users/faruksengul/Documents/SystemCase/Case/SystemCase.Shared/SystemCase.Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

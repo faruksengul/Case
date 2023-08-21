@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Notification/SystemCase.Notification.csproj": {}
+    "/Users/faruksengul/Documents/SystemCase/Case/SystemCase.Notification/SystemCase.Notification.csproj": {}
   },
   "projects": {
-    "/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Notification/SystemCase.Notification.csproj": {
+    "/Users/faruksengul/Documents/SystemCase/Case/SystemCase.Notification/SystemCase.Notification.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Notification/SystemCase.Notification.csproj",
+        "projectUniqueName": "/Users/faruksengul/Documents/SystemCase/Case/SystemCase.Notification/SystemCase.Notification.csproj",
         "projectName": "SystemCase.Notification",
-        "projectPath": "/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Notification/SystemCase.Notification.csproj",
+        "projectPath": "/Users/faruksengul/Documents/SystemCase/Case/SystemCase.Notification/SystemCase.Notification.csproj",
         "packagesPath": "/Users/faruksengul/.nuget/packages/",
-        "outputPath": "/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Notification/obj/",
+        "outputPath": "/Users/faruksengul/Documents/SystemCase/Case/SystemCase.Notification/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/faruksengul/.nuget/NuGet/NuGet.Config"
@@ -27,8 +27,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Shared/SystemCase.Shared.csproj": {
-                "projectPath": "/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Shared/SystemCase.Shared.csproj"
+              "/Users/faruksengul/Documents/SystemCase/Case/SystemCase.Shared/SystemCase.Shared.csproj": {
+                "projectPath": "/Users/faruksengul/Documents/SystemCase/Case/SystemCase.Shared/SystemCase.Shared.csproj"
               }
             }
           }
@@ -83,14 +83,14 @@
         }
       }
     },
-    "/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Shared/SystemCase.Shared.csproj": {
+    "/Users/faruksengul/Documents/SystemCase/Case/SystemCase.Shared/SystemCase.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Shared/SystemCase.Shared.csproj",
+        "projectUniqueName": "/Users/faruksengul/Documents/SystemCase/Case/SystemCase.Shared/SystemCase.Shared.csproj",
         "projectName": "SystemCase.Shared",
-        "projectPath": "/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Shared/SystemCase.Shared.csproj",
+        "projectPath": "/Users/faruksengul/Documents/SystemCase/Case/SystemCase.Shared/SystemCase.Shared.csproj",
         "packagesPath": "/Users/faruksengul/.nuget/packages/",
-        "outputPath": "/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Shared/obj/",
+        "outputPath": "/Users/faruksengul/Documents/SystemCase/Case/SystemCase.Shared/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/faruksengul/.nuget/NuGet/NuGet.Config"

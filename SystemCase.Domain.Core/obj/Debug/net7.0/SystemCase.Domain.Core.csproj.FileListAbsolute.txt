@@ -10,3 +10,15 @@
 /Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Domain.Core/obj/Debug/net7.0/refint/SystemCase.Domain.Core.dll
 /Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Domain.Core/obj/Debug/net7.0/SystemCase.Domain.Core.pdb
 /Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Domain.Core/obj/Debug/net7.0/ref/SystemCase.Domain.Core.dll
+/Users/faruksengul/Documents/SystemCase/Case/SystemCase.Domain.Core/bin/Debug/net7.0/SystemCase.Domain.Core.deps.json
+/Users/faruksengul/Documents/SystemCase/Case/SystemCase.Domain.Core/bin/Debug/net7.0/SystemCase.Domain.Core.dll
+/Users/faruksengul/Documents/SystemCase/Case/SystemCase.Domain.Core/bin/Debug/net7.0/SystemCase.Domain.Core.pdb
+/Users/faruksengul/Documents/SystemCase/Case/SystemCase.Domain.Core/obj/Debug/net7.0/SystemCase.Domain.Core.csproj.AssemblyReference.cache
+/Users/faruksengul/Documents/SystemCase/Case/SystemCase.Domain.Core/obj/Debug/net7.0/SystemCase.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/faruksengul/Documents/SystemCase/Case/SystemCase.Domain.Core/obj/Debug/net7.0/SystemCase.Domain.Core.AssemblyInfoInputs.cache
+/Users/faruksengul/Documents/SystemCase/Case/SystemCase.Domain.Core/obj/Debug/net7.0/SystemCase.Domain.Core.AssemblyInfo.cs
+/Users/faruksengul/Documents/SystemCase/Case/SystemCase.Domain.Core/obj/Debug/net7.0/SystemCase.Domain.Core.csproj.CoreCompileInputs.cache
+/Users/faruksengul/Documents/SystemCase/Case/SystemCase.Domain.Core/obj/Debug/net7.0/SystemCase.Domain.Core.dll
+/Users/faruksengul/Documents/SystemCase/Case/SystemCase.Domain.Core/obj/Debug/net7.0/refint/SystemCase.Domain.Core.dll
+/Users/faruksengul/Documents/SystemCase/Case/SystemCase.Domain.Core/obj/Debug/net7.0/SystemCase.Domain.Core.pdb
+/Users/faruksengul/Documents/SystemCase/Case/SystemCase.Domain.Core/obj/Debug/net7.0/ref/SystemCase.Domain.Core.dll

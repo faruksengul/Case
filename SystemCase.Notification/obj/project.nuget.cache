@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HfQ5sRxDFjURCgexcYT4zzgkrZpPRn7so8sAxfjfOugelMqZil3evv9kZ2UPHGLDS8SuaA6pf1RnlPf31IvJPA==",
+  "dgSpecHash": "2MydGiK7gJeVQZmFzf2z6vm06fVSrZmBWsWK41UXvJw+3UB7M0Y82FAPPFrnVGCv1iMA4GnChcMOLQInfBuMlA==",
   "success": true,
-  "projectFilePath": "/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Notification/SystemCase.Notification.csproj",
+  "projectFilePath": "/Users/faruksengul/Documents/SystemCase/Case/SystemCase.Notification/SystemCase.Notification.csproj",
   "expectedPackageFiles": [
     "/Users/faruksengul/.nuget/packages/masstransit/8.1.0/masstransit.8.1.0.nupkg.sha512",
     "/Users/faruksengul/.nuget/packages/masstransit.abstractions/8.1.0/masstransit.abstractions.8.1.0.nupkg.sha512",

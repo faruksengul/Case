@@ -4301,11 +4301,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Application/SystemCase.Application.csproj",
+      "projectUniqueName": "/Users/faruksengul/Documents/SystemCase/Case/SystemCase.Application/SystemCase.Application.csproj",
       "projectName": "SystemCase.Application",
-      "projectPath": "/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Application/SystemCase.Application.csproj",
+      "projectPath": "/Users/faruksengul/Documents/SystemCase/Case/SystemCase.Application/SystemCase.Application.csproj",
       "packagesPath": "/Users/faruksengul/.nuget/packages/",
-      "outputPath": "/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Application/obj/",
+      "outputPath": "/Users/faruksengul/Documents/SystemCase/Case/SystemCase.Application/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/faruksengul/.nuget/NuGet/NuGet.Config"
@@ -4320,11 +4320,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Infrastructure/SystemCase.Infrastructure.csproj": {
-              "projectPath": "/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Infrastructure/SystemCase.Infrastructure.csproj"
+            "/Users/faruksengul/Documents/SystemCase/Case/SystemCase.Infrastructure/SystemCase.Infrastructure.csproj": {
+              "projectPath": "/Users/faruksengul/Documents/SystemCase/Case/SystemCase.Infrastructure/SystemCase.Infrastructure.csproj"
             },
-            "/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Shared/SystemCase.Shared.csproj": {
-              "projectPath": "/Users/faruksengul/Documents/SystemCase/SystemCase/SystemCase.Shared/SystemCase.Shared.csproj"
+            "/Users/faruksengul/Documents/SystemCase/Case/SystemCase.Shared/SystemCase.Shared.csproj": {
+              "projectPath": "/Users/faruksengul/Documents/SystemCase/Case/SystemCase.Shared/SystemCase.Shared.csproj"
             }
           }
         }
